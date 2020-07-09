@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_app", "mail_app\mail_app.csproj", "{074194D3-F257-49F0-B63B-15782D9074C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary1", "WpfControlLibrary1\WpfControlLibrary1.csproj", "{0B18F195-9F1D-4C06-8248-B4F5FEF16745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074194D3-F257-49F0-B63B-15782D9074C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074194D3-F257-49F0-B63B-15782D9074C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074194D3-F257-49F0-B63B-15782D9074C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074194D3-F257-49F0-B63B-15782D9074C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B18F195-9F1D-4C06-8248-B4F5FEF16745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B18F195-9F1D-4C06-8248-B4F5FEF16745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B18F195-9F1D-4C06-8248-B4F5FEF16745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B18F195-9F1D-4C06-8248-B4F5FEF16745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E44848-EBFF-4E35-9B00-465E93B111A5}
+	EndGlobalSection
+EndGlobal
